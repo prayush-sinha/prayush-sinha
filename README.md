@@ -35,6 +35,20 @@
       <sub>Nash Equilibrium Solver · Bayesian Metagame Priors · Self-Attention Policy Pruning</sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 <a href="https://github.com/smart-route-ai-team/noc-smart-routing-system">NOC Smart Routing System</a></h3>
+      <p>A dataset-driven Network-on-Chip routing simulator with multi-level intelligence — from Dijkstra/A*/K-Shortest Paths through congestion-aware adaptive routing to autonomous Q-Learning, plus a protocol selection engine for UART/I2C/SPI and ARQ packet-drop simulation. Built with a team of 5.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NetworkX-4C8CBF?style=flat"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
+      </p>
+      <sub>Q-Learning Agent · Adaptive Congestion Detection · Protocol Fitness Scoring · 7-Tab Streamlit Dashboard</sub>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -66,6 +80,8 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Tools**
 
